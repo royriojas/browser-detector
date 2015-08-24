@@ -1,6 +1,6 @@
 {
   "name": "browser-detector",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A wrapper over `ua-parser-js` that will also add the detected classes to the html element",
   "main": "index.js",
   "scripts": {
