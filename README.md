@@ -27,8 +27,10 @@ var env = require('browser-dectector');
 // check for https://www.npmjs.com/package/ua-parser-js
 ```
 
-## Lincense
+## License
 
 [MIT](./LICENSE)
 
-## [Changelog](./changelog.md)
+## Changelog
+
+[Changelog](./changelog.md)
